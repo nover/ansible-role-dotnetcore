@@ -1,0 +1,4 @@
+---
+# defaults file for ansible-role-dotnetcore
+dotnet_core_sdks:
+  - dotnet-dev-1.0.4
