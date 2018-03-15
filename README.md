@@ -16,7 +16,7 @@ To alter this, define your variable as
 ```yaml
 dotnet_core_sdks:
   - dotnet-dev-1.0.4
-  - dotnet-dev-2.0.0-preview1-005977
+  - dotnet-sdk-2.1.4
 ```
 
 ## Example Playbook
